@@ -75,7 +75,7 @@ Este repositorio contiene la auditoría, corrección y despliegue de una página
 
 
 **Sitio publicado**
-🔗 [URL de Netlify aquí]
+🔗 (https://taller-integrador-montenegro.netlify.app/)
 
 **Estructura de ramas**
 
